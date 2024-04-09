@@ -1,3 +1,0 @@
-GranthGPT
-
-A RAG based on FAISS and Gemini to get response on God's Scriptures
