@@ -19,9 +19,7 @@ You can get your Gemini API key from here: https://makersuite.google.com/app/api
 <ol>
   <li>clone the repo</li> 
   <li>
-    ```python
-    pip install requirements.txt
-    ```
+      streamlit run granthGPT.py
   </li>
   <li>save your Gemini API key in a txt file and name it as key.txt</li>
 </ol>
