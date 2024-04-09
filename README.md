@@ -32,8 +32,8 @@ streamlit run granthGPT.py
 
 ## Example Screenshots
 
-<img src='https://raw.githubusercontent.com/HorizonAks/GranthGPT/master/examples/example1.png?token=GHSAT0AAAAAACQX5BFHFHMEDZEZETVTY4Z2ZQVRWBQ'></img>
-<img src='https://raw.githubusercontent.com/HorizonAks/GranthGPT/master/examples/example2.png?token=GHSAT0AAAAAACQX5BFHRYP3BTLSEF4YAAACZQVRWUQ'></img>
+<img src='https://raw.githubusercontent.com/HorizonAks/GranthGPT/master/examples/example1.png?token=GHSAT0AAAAAACQX5BFHFHMEDZEZETVTY4Z2ZQVRWBQ'>Default Screen After Loading</img>
+<img src='https://raw.githubusercontent.com/HorizonAks/GranthGPT/master/examples/example2.png?token=GHSAT0AAAAAACQX5BFHRYP3BTLSEF4YAAACZQVRWUQ'>Example Questions</img>
 
 ## Contributing
 
