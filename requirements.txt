@@ -1,1 +1,7 @@
-
+datasets==2.18.0
+faiss_cpu==1.8.0
+numpy==1.26.4
+pandas==2.2.1
+protobuf==5.26.1
+sentence_transformers==2.6.1
+streamlit==1.33.0
